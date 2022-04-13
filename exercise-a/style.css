@@ -8,6 +8,7 @@ table {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    border-collapse: collapse;
   }
 thead {
     height: 2rem;
