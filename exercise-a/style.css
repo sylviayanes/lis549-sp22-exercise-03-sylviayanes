@@ -25,5 +25,5 @@ th, td {
     border-bottom: 1px, solid, #d3d3d3;
 }
 body tbody:nth-child(2){
-    color:  #eee;
+    background-color:  #eee;
 }
