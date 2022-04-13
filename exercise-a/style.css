@@ -16,3 +16,7 @@ thead {
     color: #1db954;
     background-color: #d3d3d3;
 }
+.main-table-images {
+    height: 100px;
+    width: 100px;
+}
