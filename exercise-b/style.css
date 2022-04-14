@@ -14,6 +14,7 @@ path {
 .contained circle,#rect {
     fill: #c0c0c0;
     stroke: none;
+    opacity: 1;
 }
 #interactive {
     fill: #c0c0c0;
@@ -21,7 +22,6 @@ path {
 }
 #interactive:hover{
     fill: #bd250d;
-    outline: 1px solid purple;
 }
 rect {
     opacity: 0;
