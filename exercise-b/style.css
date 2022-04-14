@@ -11,7 +11,7 @@ path {
 .contained .small {
     fill: #573d29;
 }
-.contained circle, .rect {
+.contained circle,#rect {
     fill: #c0c0c0;
     stroke: none;
 }
@@ -23,5 +23,8 @@ path {
     fill: #bd250d;
 }
 rect {
-    opacity: 0s;
+    opacity: 0;
+}
+h1:last-child{
+    stroke: none;
 }
