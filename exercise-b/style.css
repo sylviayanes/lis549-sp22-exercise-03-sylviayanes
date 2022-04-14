@@ -26,5 +26,5 @@ rect {
     opacity: 0;
 }
 svg:last-child{
-    stroke: none;
+    stroke-width: none;
 }
