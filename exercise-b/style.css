@@ -8,6 +8,7 @@ path {
 .small {
     color: white;
 }
-.contained {
+.contained .small {
     color: #573d29;
 }
+
