@@ -18,7 +18,8 @@ path {
 }
 #interactive {
     fill: #c0c0c0;
-    stroke: #bd250d 4px;
+    stroke: #bd250d
+    4px;
 }
 #interactive:hover{
     fill: #bd250d;
