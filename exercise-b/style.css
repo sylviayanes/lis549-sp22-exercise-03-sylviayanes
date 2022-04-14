@@ -6,19 +6,19 @@ path {
     stroke-width: 8px;
 }
 .small {
-    color: white;
+    fill: white;
 }
 .contained .small {
-    color: #573d29;
+    fill: #573d29;
 }
 .contained circle, .rect {
-    color: #c0c0c0;
+    fill: #c0c0c0;
     stroke: none;
 }
 #interactive {
-    color: #c0c0c0;
+    fill: #c0c0c0;
     stroke: #bd250d 4px;
 }
 #interactive:hover{
-    color: #bd250d;
+    fill: #bd250d;
 }
