@@ -11,7 +11,7 @@ path {
 .contained .small {
     color: #573d29;
 }
-.contained circle, rect {
+.contained circle, .rect {
     color: #c0c0c0;
     stroke: none
 }
