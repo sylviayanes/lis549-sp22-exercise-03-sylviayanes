@@ -21,6 +21,7 @@ path {
 }
 #interactive:hover{
     fill: #bd250d;
+    outline: 1px solid purple;
 }
 rect {
     opacity: 0;
