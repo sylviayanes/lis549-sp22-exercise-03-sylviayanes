@@ -25,6 +25,6 @@ path {
 rect {
     opacity: 0;
 }
-h1:last-child{
+svg:last-child{
     stroke: none;
 }
