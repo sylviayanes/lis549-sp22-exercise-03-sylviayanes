@@ -26,5 +26,5 @@ rect {
     opacity: 0;
 }
 path:last-child{
-    stroke-width: none;
+    stroke: none;
 }
