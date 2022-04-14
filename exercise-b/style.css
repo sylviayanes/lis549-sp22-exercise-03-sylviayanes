@@ -15,3 +15,7 @@ path {
     color: #c0c0c0;
     stroke: none
 }
+#interactive {
+    color: #c0c0c0;
+    stroke: #bd250d 4px;
+}
