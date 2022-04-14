@@ -5,3 +5,7 @@ path:nth-of-type(1){
     stroke: #5f5f5f;
     stroke-width: 8px;
 }
+path ~ path {
+    stroke: #5f5f5f;
+    stroke-width: 8px;
+}
