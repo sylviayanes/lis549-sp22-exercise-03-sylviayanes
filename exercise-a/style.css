@@ -27,3 +27,6 @@ th, td {
 tbody tr:nth-child(even){
     background-color:  #eee;
 }
+tbody:hover{
+    background-color: pink;
+}
