@@ -13,7 +13,7 @@ path {
 }
 .contained circle, .rect {
     color: #c0c0c0;
-    stroke: none
+    stroke: none;
 }
 #interactive {
     color: #c0c0c0;
