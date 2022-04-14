@@ -22,3 +22,6 @@ path {
 #interactive:hover{
     fill: #bd250d;
 }
+rect {
+    opacity: 1;
+}
